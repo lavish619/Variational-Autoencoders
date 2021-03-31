@@ -3,12 +3,12 @@
 ## Model Visualization
 ### Encoder 
 <p align = "center">
-    <img src = "images/encoder.jpg" width ="70%">
+    <img src = "images/encoder.jpg" width ="60%">
 </p>
 
 ### Decoder
 <p align = "center">
-    <img src = "images/decoder.jpg" width ="70%">
+    <img src = "images/decoder.jpg" width ="60%">
 </p>
 
 ## Dataset and Training
@@ -58,4 +58,4 @@ Run the ```main.py``` file to visualize the following:
 
 3) [A lecture giving a deep understanding of probability behind VAE.](https://www.youtube.com/watch?v=uaaqyVS9-rM)
 
-4) [Paper on VAEs (Highly mathematical)](https://arxiv.org/pdf/1312.6114.pdf)
+4) [Paper on VAEs](https://arxiv.org/pdf/1312.6114.pdf)
