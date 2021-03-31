@@ -1,6 +1,6 @@
 import sys
 path = sys.path[0]
-sys.path.insert(1, path + '\\engine')
+sys.path.insert(1, path + '\\src')
 import tensorflow as tf
 
 from model import VAE

@@ -4,7 +4,7 @@ Code for visualizing the reconstructed Images and new generated Images.
 import os
 import sys
 path = sys.path[0]
-sys.path.insert(1, path + '\\engine')
+sys.path.insert(1, path + '\\src')
 
 from model import VAE
 from dataset import prepare_dataset

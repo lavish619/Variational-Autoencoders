@@ -52,7 +52,7 @@ Run the ```main.py``` file to visualize the following:
 
 ## References
 
-1) [An awesome article on VAEs giving a basic intuition of mathematics behind.](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
+1) [An awesome article giving a basic intuition of mathematics behind VAEs.](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
 
 2) [Keras code reference for writing the loss functions.](https://keras.io/examples/generative/vae/)
 
